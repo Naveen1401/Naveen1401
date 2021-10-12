@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures nad Algorithms**
 
-- 👯 I’m looking to collaborate on **JavaScript, ReactJS based projects**
+- 👯 I’m looking to work on **JavaScript, ReactJS based projects**
 
 - 👨‍💻 All of my projects are available at [Personal Portfolio](https://sites.google.com/view/designerhunt/home?authuser=0)
 
