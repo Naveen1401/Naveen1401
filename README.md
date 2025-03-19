@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **JavaScript, ReactJS based projects**
 
-- 👨‍💻 All of my projects are available at [Personal Portfolio](https://sites.google.com/view/designerhunt/home?authuser=0)
+- 👨‍💻 All of my projects are available at [Personal Portfolio](naveenmahanwal.netlify.app)
 
-- 💬 Ask me about **UI/UX Designing**
+- 💬 Ask me about **UI/UX Designing**[My work](https://sites.google.com/view/designerhunt/home?authuser=0)
 
-- 📫 How to reach me **naveen.19041@iitgoa.ac.in**
+- 📫 How to reach me **naveen140112@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
